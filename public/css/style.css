@@ -1,0 +1,35 @@
+.box-shadow {
+  box-shadow: 0 0 5px rgb(80, 79, 79);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+form p {
+  margin: 0;
+}
+
+form input {
+  margin: 0 0 10px 0;
+  width: 100%
+}
+
+#chat {
+  min-height: 200px;
+  max-height: 400px;
+  overflow-y: scroll;
+  padding: 20px;
+  position: relative;
+}
+
+#chat strong {
+  color: blue;
+}
+
+#chat span {
+  color: black;
+}
+
+#chat i {
+  color: black;
+  font-weight: bold;
+}
